@@ -1,0 +1,59 @@
+{
+    "default_width": 57,
+    "default_height": 57,
+    "space_h": 0,
+    "space_v": 0,
+    "flags": 0,
+    "overlay_width": 285,
+    "overlay_height": 57,
+    "elements": [
+        {
+            "type": 1,
+            "pos": [
+                0,
+                0
+            ],
+            "id": "keyboard button0",
+            "z_level": 0,
+            "mapping": [
+                0,
+                0,
+                57,
+                57
+            ],
+            "code": 57419
+        },
+        {
+            "type": 1,
+            "pos": [
+                57,
+                0
+            ],
+            "id": "keyboard button1",
+            "z_level": 0,
+            "mapping": [
+                114,
+                0,
+                172,
+                57
+            ],
+            "code": 57
+        },
+        {
+            "type": 1,
+            "pos": [
+                228,
+                0
+            ],
+            "id": "keyboard button2",
+            "z_level": 0,
+            "mapping": [
+                57,
+                0,
+                57,
+                57
+            ],
+            "code": 57421
+        }
+    ]
+}
